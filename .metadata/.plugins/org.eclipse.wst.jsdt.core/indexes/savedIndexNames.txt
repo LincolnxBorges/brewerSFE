@@ -1,0 +1,17 @@
+INDEX VERSION 1.4+C:\Workspace\AW_SFE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2482743787.index
+3543968655.index
+3607560041.index
+2873904723.index
+18665517.index
+2090357497.index
+2949315033.index
+1156626261.index
+1166181011.index
+1687018541.index
+4285047143.index
+1134523638.index
+1766071634.index
+1677126575.index
+171269463.index
+1969727592.index

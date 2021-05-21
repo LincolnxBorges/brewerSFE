@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;uikit.min.js&apos; to &apos;vendors&apos;" description="Move &apos;uikit.min.js&apos; to &apos;vendors&apos;" destination="src/main/resources/static/javascripts/vendors" element1="src/main/resources/static/stylesheets/vendors/uikit.min.js" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1615580711610" updateReferences="true"/>
+</session>

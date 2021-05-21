@@ -1,0 +1,15 @@
+package com.algaworks.brewer.repository.helper.cerveja;
+
+import java.util.List;
+
+import com.algaworks.brewer.model.Cerveja;
+import com.algaworks.brewer.repository.filter.CervejaFilter;
+
+public class CervejasImpl implements CervejasQueries {
+	
+	@Override
+	public List<Cerveja> filtrar(CervejaFilter filtro) {
+		return null;
+	}
+
+}
